@@ -27,3 +27,9 @@ pip install ovsgui
 ```bash
 ovsgui
 ```
+
+## Integration with ovsystem
+
+**ovsgui** is designed to work seamlessly with the **ovsystem** library. OVSystem manages variables through Firebase, while **ovsgui** provides a graphical interface to visualize and manage these variables. Users can manage Firebase variables using **ovsystem**, and with **ovsgui**, they can easily view and modify these variables. 
+
+This integration allows both libraries to be used together for more efficient system management.
